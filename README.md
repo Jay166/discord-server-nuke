@@ -1,4 +1,4 @@
-
+[![Run on Repl.it](https://repl.it/badge/github/Supergamer5465/discord-server-nuke)](https://repl.it/github/Supergamer5465/discord-server-nuke)
 # discord-server-nuke
 destroyer of discord servers
 
